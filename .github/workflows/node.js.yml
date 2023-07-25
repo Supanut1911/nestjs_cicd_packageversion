@@ -3,11 +3,6 @@
 
 name: Node.js CI
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 on:
   push:
     branches: ['main', 'master', 'lead']
