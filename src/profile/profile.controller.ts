@@ -11,4 +11,9 @@ export class ProfileController {
   gethigh() {
     return 'yooox';
   }
+
+  @Get('low')
+  getlow() {
+    return 'lowx';
+  }
 }
