@@ -39,6 +39,8 @@ jobs:
       contents: write
       pages: write
       id-token: write
+      issues: write
+      pull-request: write
 
     steps:
       - uses: actions/checkout@v3
