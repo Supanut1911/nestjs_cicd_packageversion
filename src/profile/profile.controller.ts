@@ -6,4 +6,9 @@ export class ProfileController {
   getProfile() {
     return 'yo profile';
   }
+
+  @Get('high')
+  gethigh() {
+    return 'yooo';
+  }
 }
