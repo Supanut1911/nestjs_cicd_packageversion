@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  transcrypt_backend:
+    container_name: transcrypt_backend
+    build: .
+    command: npm run start:prod
+    ports:
+      - 3000:3000
+    restart: unless-stopped
