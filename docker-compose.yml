@@ -1,8 +1,8 @@
 version: '3.3'
 
 services:
-  transcrypt_backend:
-    container_name: transcrypt_backend
+  nest_tmp:
+    container_name: nest_tmp
     build: .
     command: npm run start:prod
     ports:
