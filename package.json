@@ -1,6 +1,6 @@
 {
   "name": "nestjs_cicd_packageversion",
-  "version": "0.0.0-development",
+  "version": "1.2.0",
   "description": "",
   "author": "",
   "private": true,
