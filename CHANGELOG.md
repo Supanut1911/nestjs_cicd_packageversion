@@ -1,12 +1,13 @@
 # [2.0.0](https://github.com/Supanut1911/nestjs_cicd_packageversion/compare/v1.2.0...v2.0.0) (2023-08-01)
 
 
-### Continuous Integration
+### Continuous IntegrationXX
+
 
 * **update ci script:** update ci ([a7be75e](https://github.com/Supanut1911/nestjs_cicd_packageversion/commit/a7be75e622d1f64571a89e67ac66e0fa26ef2cf5))
 
 
-### BREAKING CHANGES
+### UPDATE MAJOR RELEASE
 
 * **update ci script:** b
 
